@@ -1,0 +1,4 @@
+Erro 2023-10-15 10:15:20 Ocorreu um erro crítico no servidor.
+Aviso 2023-10-15 10:20:05 Espaço em disco baixo.
+Informação 2023-10-15 10:30:15 Servidor iniciado com sucesso.
+Erro 2023-10-15 11:05:45 Falha de autenticação.

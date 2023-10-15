@@ -1,0 +1,2 @@
+Erro 2023-10-15 10:15:20 Ocorreu um erro crítico no servidor.
+Aviso 2023-10-15 10:20:05 Espaço em disco baixo.
